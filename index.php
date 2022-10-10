@@ -118,18 +118,22 @@
       pattern="[0-9]{1,10}" required>
                                                     
                                                 </div>
-                                                <div class="wrap-input100 validate-input">
+                                                   <div class="wrap-input100 validate-input">
                                                     <label for="cid">Password</label>
                                                     <input class="input100" type="password" name="Password"minlength="6" maxlength="35" required>
                                                     
                                                 </div>
-						     <div class="wrap-input100 validate-input">
-                                                    <label for="cid">Mobile No.</label>
-                                                      <input class="input100" type="text" name="mobile" placeholder="Mobile No." minlength="10" maxlength="12" pattern="[0-9]{10}" required
+
+                                                <div class="wrap-input100 validate-input">
+                                                <label for="cid">Mobile No.</label>
+                                                    <input class="input100" type="text" name="mobile" placeholder="" minlength="10" maxlength="12" pattern="[0-9]{10}" required>
                                                     
                                                 </div>
                             
                                          <a href="#">Forgot Customer ID</a>
+                                              <div>
+                            
+                                        
                                              
                                               <button class="btn btn-primary login-btn" style = "    background-color: #240bed;
     border-color: #420ee3;    width: 201px;"type="submit">
