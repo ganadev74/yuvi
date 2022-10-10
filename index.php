@@ -130,7 +130,7 @@
                                                 </div>
                             
                                          <a href="#">Forgot Customer ID</a>
-                                              <div>
+                                             
                                               <button class="btn btn-primary login-btn" style = "    background-color: #240bed;
     border-color: #420ee3;    width: 201px;"type="submit">
                                                             CONTINUE
