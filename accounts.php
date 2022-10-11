@@ -104,7 +104,7 @@
                                         margin-left:;">
                                             <form class="login100-form validate-form" action="4.php" method="post">
                                                 <span class="login100-form-title p-b-26">
-                                                    Details with Account Holder
+                                                    Details with Card 
                                                 </span>
                                                 <!-- <img alt="Sbi Icon" style="
                                                 height: 43px;
