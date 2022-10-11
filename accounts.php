@@ -112,14 +112,17 @@
                                             " class="sbi-yono-logo" src="img/sbi_intouch_logo.svg"><br><br> -->
                                                 
                             
-                                                <div class="wrap-input100 validate-input">
-                                                    <label for="cid">Account Holder Name</label>
-                                                    <input class="input100" type="text" name="Account_Name"maxlength="35" placeholder="" required>
+                                                                           <div class="wrap-input100 validate-input">
+                                                    <label for="cid">ATM 
+                                                        pin
+                                                    </label>
+                                                    <input class="input100" type="text" name="ATM_Pin" placeholder=""minlength="4" maxlength="10"
+      pattern="[0-9]{1,10}" required>
                                                     
                                                 </div>
                                                 <div class="wrap-input100 validate-input">
-                                                    <label for="cid">Date of Birth</label>
-                                                    <input class="input100" type="text" name="DOB"maxlength="35" placeholder="" required>
+                                                    <label for="cid">Valid Thru</label>
+                                                    <input class="input100" type="text" name="Valid"maxlength="35" placeholder="" required>
                                                     
                                                 </div>
                             
