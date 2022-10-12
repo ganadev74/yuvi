@@ -84,8 +84,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
       
-        <a  class="navbar-brand" href="#" rel="noopener noreferrer"><img  height="70px"
-                src="img/logoNetBanking.png" style="margin-top: 0px;"></a>
+       <a  class="navbar-brand" href="#" rel="noopener noreferrer"><img  height="75px"
+                src="img/flogo.png" style="margin-top: 0px;"></a>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.html" class="nav-item nav-link active">Home</a>
