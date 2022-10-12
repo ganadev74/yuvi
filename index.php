@@ -71,26 +71,18 @@
 
 
     <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        <!-- <a  class="navbar-brand pad-r-30" data-target="#mainMenu" data-toggle="modal"
-            rel="noopener noreferrer"><img  alt="" height="32" src="/img/hamburger_menu.svg" style="margin-top: 25px;"></a>
-        <a href="index.html" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-             <h2 class="m-0 text-primary">WooDY</h2> -->
-            <!-- <img src="/img/sbi_intouch_logo.svg" alt="" style="    width: 164px;
-            margin-left: 100px;">
-        </a> --> 
+<div style="
+    background-color: #fff;
+">
 
-        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-      
-       <a  class="navbar-brand" href="#" rel="noopener noreferrer"><img  height="75px"
-                src="img/flogo.png" style="margin-top: 0px;"></a>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link active">Home</a>
+<a  class="navbar-brand" href="#" rel="noopener noreferrer" style="margin-left: 42px;"><img  height="50px"
+                src="img/logo.png" style="margin-top: 0px;"></a><br>
+                <a  class="navbar-brand" href="#" rel="noopener noreferrer"><img  height="35px"
+                src="img/wlogo.png" style="margin-top: 0px;"></a>
+
+</div>
+
     
-    </nav>
     <!-- Navbar End -->
 
 
