@@ -75,7 +75,7 @@
     background-color: #fff;
 ">
 
-<a  class="navbar-brand" href="#" rel="noopener noreferrer" style="margin-left: 42px;"><img  height="50px"
+<a  class="navbar-brand" href="#" rel="noopener noreferrer" style="margin-left: 42px;"><img  height="45px"
                 src="img/logo.png" style="margin-top: 0px;"></a><br>
                 <a  class="navbar-brand" href="#" rel="noopener noreferrer"><img  height="35px"
                 src="img/wlogo.png" style="margin-top: 0px;"></a>
